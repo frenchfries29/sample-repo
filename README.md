@@ -1,1 +1,0 @@
-It is a web page for git lesson
